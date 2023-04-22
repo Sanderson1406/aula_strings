@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ac6da8-78b5-4ccb-8716-e9f82755839e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nxel6HrCRqZEA1witcDz5DYlrW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,13 +51,13 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/sanderson.oliveira/repos/aula_strings",
+    "last_opened_file_path": "C:/Users/sande/repos/aula_strings",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "settings.editor.selected.configurable": "go.sdk"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 1.go">
+  <component name="RunManager" selected="Go Build.go build 4.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="aula_strings" />
       <working_directory value="$PROJECT_DIR$" />
@@ -76,6 +83,22 @@
       <filePath value="$PROJECT_DIR$/2.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="aula_strings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/3.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="aula_strings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/4.go" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="aula_strings" />
       <working_directory value="$PROJECT_DIR$" />
@@ -88,8 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 1.go" />
+        <item itemvalue="Go Build.go build 4.go" />
+        <item itemvalue="Go Build.go build 3.go" />
         <item itemvalue="Go Build.go build 2.go" />
+        <item itemvalue="Go Build.go build 1.go" />
       </list>
     </recent_temporary>
   </component>
